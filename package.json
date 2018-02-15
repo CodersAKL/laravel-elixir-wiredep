@@ -23,7 +23,7 @@
     "url": "https://github.com/FabioAntunes/laravel-elixir-wiredep/issues"
   },
   "dependencies": {
-    "wiredep": "^2.2.2"
+    "wiredep": "^4.0.0"
   },
   "peerDependencies": {
     "laravel-elixir": ">=3.0"
